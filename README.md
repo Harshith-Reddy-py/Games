@@ -40,3 +40,6 @@ Contributions are welcome! If you have a game idea or improvement, feel free to 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Enjoy playing and exploring the world of Python games! 🎉
+## Credits
+
+Created by Harshith Reddy.
