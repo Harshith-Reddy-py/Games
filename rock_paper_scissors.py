@@ -12,7 +12,7 @@ def get_computer_choice():
 
 def determine_winner(user, computer):
     if user == computer:
-        return "It's a tie!"
+        print("It's a tie!",end ="")
     elif (user == 'rock' and computer == 'scissors'):
         print("You win!")
     elif (user == 'scissors' and computer == 'paper'):
@@ -31,7 +31,7 @@ def play():
     print(f"Computer chose: {computer_choice}")
 
     result = determine_winner(user_choice, computer_choice)
-    print(f"\"{result}\"")
+    return(result)
 
 while True :
     play()
