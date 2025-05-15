@@ -4,13 +4,13 @@ Welcome to the Python Games Repository! 🎮
 
 This repository contains a collection of different games developed in Python. Each game showcases a mix of built-in modules and external libraries, making them both fun to play and a great way to learn about game development in Python.
 
-## Features
+## 🧩Features
 
 - **Variety of Games:** Explore various game types, including classics and unique creations.
 - **Built-in and External Modules:** Each game uses Python’s built-in features and external libraries for enhanced functionality.
 - **Easy to Play:** Games are designed to be user-friendly and enjoyable for players of all skill levels.
 
-## Requirements
+## 📦Requirements
 
 To run the games, you may need to install some external libraries. Make sure to check the individual game directories for specific dependencies.
 
